@@ -1,0 +1,11 @@
+*.csproj
+*.pidb
+*.sln
+*.unityproj
+*.userprefs
+
+# Folders
+Temp
+Library
+.DS_Store
+.DS_Store?
